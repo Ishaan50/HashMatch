@@ -1,7 +1,11 @@
 A simple Python tool that demonstrates how **SHA-256 hashing** works by comparing a user-provided hash against a customizable password list.
 
-## Language used
-https://camo.githubusercontent.com/46f6b9f5adff2c6501a09aa31fc244668676b0280a76eb51108437ad2b4f66a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3337373641422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
+---
+
+## Language Used
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ## How does it work?
 - Loads ```passwords.txt```
