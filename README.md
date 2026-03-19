@@ -1,7 +1,3 @@
-Perfect! Here’s a **super simple and clean README** version that’s easy to understand at a glance, for both Terminal and Webpage users:
-
----
-
 # SHA-256 Hash Match Tool 🔐
 
 Check a SHA‑256 hash against your list of passwords. Works in Python or directly in a web browser.
