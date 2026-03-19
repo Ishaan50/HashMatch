@@ -1,12 +1,11 @@
 A simple Python tool that demonstrates how **SHA-256 hashing** works by comparing a user-provided hash against a customizable password list.
 
 ---
-
+# (For Terminal💻)
 ## Language Used
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
 ## How does it work?
 - Loads ```passwords.txt```
 - Stores all passwords in a list
@@ -25,4 +24,7 @@ A simple Python tool that demonstrates how **SHA-256 hashing** works by comparin
 
 ### How to use?
 There is ```input("\nPress Enter to exit...")``` so you can just dobule click the HashMatch.py to run it
+
+---
+# (For webpage)
 
